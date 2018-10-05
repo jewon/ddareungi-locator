@@ -1,9 +1,10 @@
 # **PublicBike**
+> 프로젝트 계획서(doc file): [다운로드](http://khuhub.khu.ac.kr/2018-2-capstone-design-2/PublicBike/blob/master/docs/KHU-Project_Plan.doc)  
 ![alt text](/resources/ddar-station_location.png)
 (따릉이 스테이션의 위치, QGIS)
 
 ## Meta
-2018-2 캡스톤디자인2 과목 (이영구 교수님)
+2018-2 캡스톤디자인2 과목 (이영구 교수님)  
 데이터 분석을 통한 서울시 공공자전거 '따릉이' 스테이션의 입지 효율화
 
 ## Abstract
